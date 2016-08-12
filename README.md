@@ -1,2 +1,2 @@
 # Metapod
-justshare
+just shared
